@@ -6,7 +6,7 @@ This is the code for the paper "AAS: Automatic Virtual Data Augmentation for Dee
 ![framework](AAS.png)
 
 # Running the code
-Please refer to run.sh 
+python main.py
 
 # Citing
 
