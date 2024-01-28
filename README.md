@@ -3,7 +3,7 @@
 This is the code for the paper "AAS: Automatic Virtual Data Augmentation for Deep Image Steganalysis" (TDSC 2023).
 
 
-![framework](framework.png)
+![framework](AAS.png)
 
 # Running the code
 Please refer to run.sh 
